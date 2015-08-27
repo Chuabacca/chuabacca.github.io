@@ -1,0 +1,33 @@
+# Site settings
+title: Chuabacca
+subtitle: Chuabacca - Dev, tech, and Wookies
+email: chuabacca@gmail.com
+description: A blog about development, tech, and Wookies.
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: theChuabacca
+github_username:  Chuabacca
+paginate: 2
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+highlighter: rogue
+
+# Default settings are not working on codeanywhere
+# defaults:
+#  -
+#    scope:
+#      path: ""
+#      type: "posts"
+#    values:
+#      layout: "post"
+#      author: Jonathan Chua
+#  -
+#    scope:
+#      path: ""
+#      type: "" 
+
+# jekyll serve -H 0.0.0.0 -p 4000
+# http://port-4000.mh17cf30bbxd2t9gjm3nffb9be29wvwqrqpdmvhiwwmi.box.codeanywhere.com
+# home page img: 1552 × 397
+# post img: 790 × 277 

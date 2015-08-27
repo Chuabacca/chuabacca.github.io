@@ -1,0 +1,32 @@
+// ==========================================================================
+// Hero
+// ==========================================================================
+// Original linear-gradient(#75da8f, #77cae9); 
+
+.hero {
+	height: 335px;
+	background: url('#{$path--rel}/hero.jpg'),
+	            linear-gradient(#f9e559, #ef7126);
+	background-blend-mode: screen;
+	background-repeat: no-repeat;
+	background-size: cover ;
+	margin-bottom: em(50px);
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.heropage {
+	height: 335px;
+	background: 
+                url('#{$path--rel}/getty-sunset-2.jpg')//,
+//	            linear-gradient(#f9e559, #ef7126)
+                ;
+	background-blend-mode: screen;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-bottom: em(50px);
+	background-position: center;
+	background-attachment: fixed;
+
+
+}
