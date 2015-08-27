@@ -6,6 +6,9 @@
 	position: relative;
 	@include mq(small) { 
 		margin-bottom: em(40px);
+		max-width: 200px;
+		margin-left: auto;
+		margin-right: auto;
 	}
 	@include mq(medium) { 
 		float: right;

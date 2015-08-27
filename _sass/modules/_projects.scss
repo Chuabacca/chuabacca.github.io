@@ -1,0 +1,19 @@
+// ==========================================================================
+// Projects
+// Settings for the project items on the projects page.
+// ==========================================================================
+
+.project img {
+	display: block;
+	width: 300px;
+	margin: 5px 5% 80px 0;
+	border-radius: 5px;
+	float: left;
+	@include mq(small) { 
+		margin: 5px 100% 20px 0;
+	}
+}
+
+.project div {
+
+}
