@@ -1,19 +1,18 @@
 // ==========================================================================
-// Projects
-// Settings for the project items on the projects page.
+// Stuff
 // ==========================================================================
 
-.project img {
+.stuff img {
 	display: block;
-	width: 300px;
-	margin: 5px 5% 80px 0;
+	width: 275px;
+	margin: 0 0 0 0;
 	border-radius: 7px;
-	float: left;
 	@include mq(small) { 
 		margin: 5px 100% 20px 0;
 	}
 }
 
-.project div {
-
+.stuff div {
+	width: 275px;
+	float: left;
 }

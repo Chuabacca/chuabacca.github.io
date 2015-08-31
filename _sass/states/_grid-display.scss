@@ -7,7 +7,7 @@
     display: block;
     @at-root (with: media) {
       .is-hidden-mobile {
-	display: none;
+	display: block;
       }
     }
   }

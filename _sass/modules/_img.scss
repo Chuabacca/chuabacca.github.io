@@ -22,3 +22,13 @@
 	  margin-top: em(-22px);
 	}
 }
+
+.img-crop {
+	float: left;
+	height: 120px;
+	width: 120px;
+	overflow: hidden;
+	margin: 5px 25px 25px 0;
+	border-radius: 7px;
+
+}
