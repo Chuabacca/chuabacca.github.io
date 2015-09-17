@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "iOS 9 is Here"
+date:   2015-09-16 08:53:30
+categories: tech, apple
+author: Jonathan Chua
+comments: true
+image: ios9-whats-new.jpg
+---
+
+Apple's new mobile operating system became publicly available for download today. iOS 9 brings some significant productivity improvements, a font facelift, and even support for older devices. Should I get the latest and greatest OS for my practically ancient iPhone 4s?
+
+<h2>
+What's New
+</h2>
+The first and most obvious change that you will see in iOS 9 is the new custom font from Apple called San Francisco. The Helvetica Neue font that was introduced in iOS 7 was very slick, but San Francisco manages to look slick and be functional at the same time. Apple has designed the new font to be easily readable on small screens. If you want to read more about the San Francisco font, [here is a great article][san-francisco] on it.
+
+The keyboard has also been redesigned with a new look and some under-the-hood improvements as well. The key caps now change from upper to lowercase depending on whether or not the shift button is on. This is super helpful, because there have been times when I have locked the shift button to type out an acronym like S.H.I.E.L.D. AND THEN FORGOTTEN TO TURN IT OFF BECAUSE I AM LOOKING AT THE KEYBOARD AS I TYPE AND WHEN I FINALLY REALIZE IT I HAVE TO TYPE WHOLE SENTENCES OVER AGAIN ESPECIALLY RUN-ON ONES. Now with variable-case key caps, hopefully that will not happen as often. The other feature I am really excited about is the trackpad function. Put two fingers down on the keyboard and drag them around and you will see a cursor appear easily letting you move to another place to type or quickly select some text. I love typing on my iPad, but the long-press-magnifying-glass gesture has probably been the most painful iOS experience ever. I've been waiting for a feature like this for a long time, and I am glad it is finally here!
+
+There are a lot of other cool new things in iOS 9, like low power mode and split-screen and predictive app suggestions, but those are my first-impression favorites. If you want to see what else iOS 9 brings to the table, watch the video below.
+
+<script height="338px" width="600px" src="http://player.ooyala.com/iframe.js#ec=xldW9qdzqBSeOZLpzCMOkaxwghfjGZMB&pbid=2076cd5a24df4d2ab33846809627e836"></script>
+
+<h2>
+Too Old?
+</h2>
+As is the case with every iOS release, many of the coolest features are only available on the latest Apple devices. Is Apple forcing their own products into obsolescence? Maybe. But the reality is that newer features require newer hardware. In fact, Apple is actually keeping their older devices alive longer by allowing them to upgrade to the latest operating system. Once app developers stop supporting older operating systems, the usefulness of an older device decreases dramatically. If the past had repeated itself, iOS 8 should have been the last OS update available for the iPhone 4s. But, to everyone's surprise, Apple has made iOS 9 available to these phones as well as the iPad 2. There is a downside, however. Upgrading to a new OS usually means taking a hit in speed and responsiveness. This is true of iOS 9, but Apple has done a remarkable job to make the slowdown between 8 and 9 almost negligible. Here is a great [article about iOS9 on the 4s][ios9-4s] from Ars Technica and [another one on the iPad 2][ios9-ipad2]. So, did I download it for my aging iPhone? You bet I did! A lot of the features are missing but the new fast app switcher, trackpad, and low-power mode make it down to this device. Check out the video below for more info on running iOS 9 on your iPhone 4s. 
+
+<iframe width="600" height="338" src="https://www.youtube.com/embed/gocqR7exhKM" frameborder="0" allowfullscreen></iframe>
+&nbsp;<br/>
+For a deep dive (we are talking Marianas Trench deep) into iOS 9 and all of its features, check out [iMore.com][imore-ios9].
+
+[san-francisco]: http://mashable.com/2015/09/16/apple-ios-9-font/#doIrJtC9YGkS
+[ios9-4s]: http://arstechnica.com/apple/2015/09/ios-9-on-the-iphone-4s-a-stay-of-execution-nothing-more/
+[ios9-ipad2]: http://arstechnica.com/apple/2015/09/ios-9-on-the-ipad-2-not-worse-than-ios-8-but-missing-many-features/
+[imore-ios9]: http://www.imore.com/ios-9
