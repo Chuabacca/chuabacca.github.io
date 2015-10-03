@@ -19,9 +19,9 @@ Here's a list of projects that I've worked on.
 <br class="clear"/>
 
 <div class='project'>
-  <a href="/" target="_blank"><img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" alt="Google Homepage Rebuild"></a>
+  <a href="/search-clone" target="_blank"><img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" alt="Google Homepage Rebuild"></a>
   <h2>
-    <a href="/" target="_blank">Google Homepage Rebuild</a>
+    <a href="/search-clone" target="_blank">Google Homepage Rebuild</a>
   </h2>
   <div>
     <p>This project demonstrates the use of basic HTML and CSS to create a clone of the Google homepage.</p>
