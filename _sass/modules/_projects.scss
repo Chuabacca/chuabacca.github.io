@@ -9,6 +9,7 @@
 	margin: 5px 5% 80px 0;
 	border-radius: 7px;
 	float: left;
+	clear: both;
 	@include mq(small) { 
 		margin: 5px 100% 20px 0;
 	}
