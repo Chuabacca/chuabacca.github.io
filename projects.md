@@ -25,6 +25,8 @@ Here's a list of projects that I've worked on.
   </h2>
   <div>
     <p>This project demonstrates the use of basic HTML and CSS to create a clone of the Google homepage.</p>
+	<h3>Techniques Used</h3>
+	<br/>&nbsp;
     <ul>
 	  <li>Use of classes and ids to target page elements with specific styles</li>
 	  <li>Use of unordered lists to create navigation bar</li>
