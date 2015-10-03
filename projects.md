@@ -16,6 +16,7 @@ Here's a list of projects that I've worked on.
   </div>
 
 </div>
+<br class="clear"/>
 
 <div class='project'>
   <a href="/" target="_blank"><img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" alt="Google Homepage Rebuild"></a>
