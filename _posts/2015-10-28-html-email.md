@@ -65,17 +65,23 @@ There is a lot more to HTML email. This just barely scratches the surface. If yo
 
 [Soup to Bits: HTML Email][soup] - In this screen cast, Dan Denny from Code School teams up with Kevin Madeville to create an email infront of your very eyes!
 
-[HTML Email Design: Treehouse] - This is a pretty good introduction to designing HTML emails.
+[HTML Email Design: Treehouse][treehouse] - This is a pretty good introduction to designing HTML emails.
+
+[Dev Tips: HTML Email Live Coding][DT] - Travis Neilson is awesome. Watch him code an HTML email. Then watch some of his other videos.
 
 [MailChimp HTML Email Development Reference][MC] - This super-helpful site covers the various aspects of HTML email. It's a great place to go to look things up.
 
 [Free Evato Tutorial][webdesign] - This is a pretty cool tutorial site that walks you through the creation of a responsive email.
 
+[My Email][mine] - Here is an email that I designed.
 
 
 [ECMS]: https://emailclientmarketshare.com
 [inception]: http://www.imdb.com/title/tt1375666/
 [CS]: https://www.codeschool.com/courses/unmasking-html-emails
 [soup]: https://www.codeschool.com/screencasts/soup-to-bits-unmasking-html-emails
+[treehouse]: https://teamtreehouse.com/library/html-email-design
+[DT]: https://youtu.be/XnWIperMy08
 [MC]: http://templates.mailchimp.com/development/
 [webdesign]: http://webdesign.tutsplus.com/articles/creating-a-simple-responsive-html-email--webdesign-12978
+[mine]: http://chuabacca.github.io/code-challenge/
