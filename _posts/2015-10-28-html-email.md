@@ -8,8 +8,6 @@ comments: true
 image: email.jpg
 ---
 
-HTML Email
-
 Recently, I’ve been learning how to write HTML emails from scratch. In many ways it like taking a trip back to 1999. Are you ready for it? HTML email are built with tables… OK, you can pick your jaw up off the floor now. Actually it’s not so bad. Working in a constrained environment is the perfect condition to stimulate creativity. Of course, there are some pretty significant pain points, but the bigger the pain, the more awesome the workaround.
 
 # The Basics
