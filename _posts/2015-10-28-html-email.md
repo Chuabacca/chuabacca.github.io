@@ -63,7 +63,9 @@ There is a lot more to HTML email. This just barely scratches the surface. If yo
 
 [Unmasking HTML Email Tutorial: CodeSchool][CS] - This is the best tutorial on HTML email that I’ve found.
 
-[Soup to Bits: HTML Email][soup] - In this screen cast, Dan Denny from Code School teams up with Kevin Madeville to create an email infront of your very eyes!
+[Soup to Bits: HTML Email][soup] - In this screen cast, Dan Denny from Code School teams up with Kevin Madeville from Litmus to create an email infront of your very eyes!
+
+[Litmus][litmus] - Build and test your emails at the same time with this online builder!
 
 [HTML Email Design: Treehouse][treehouse] - This is a pretty good introduction to designing HTML emails.
 
@@ -73,13 +75,14 @@ There is a lot more to HTML email. This just barely scratches the surface. If yo
 
 [Free Evato Tutorial][webdesign] - This is a pretty cool tutorial site that walks you through the creation of a responsive email.
 
-[My Email][mine] - Here is an email that I designed.
+[My Email][mine] - Here is an email that I designed and built.
 
 
 [ECMS]: https://emailclientmarketshare.com
 [inception]: http://www.imdb.com/title/tt1375666/
 [CS]: https://www.codeschool.com/courses/unmasking-html-emails
 [soup]: https://www.codeschool.com/screencasts/soup-to-bits-unmasking-html-emails
+[litmus]: https://litmus.com/email-builder
 [treehouse]: https://teamtreehouse.com/library/html-email-design
 [DT]: https://youtu.be/XnWIperMy08
 [MC]: http://templates.mailchimp.com/development/
