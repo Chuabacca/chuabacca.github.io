@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Email Portfolio”
+date:   2015-11-04 08:53:30
+category: Frontend, Design
+author: Jonathan Chua
+comments: true
+image: email-portfolio.jpg
+---
+
+As you may have guessed from my last post, I’ve not only been learning about html email, I’ve been building them. Here are the ones that I’ve created so far.
+
